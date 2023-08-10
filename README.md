@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Stas321Vas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 # Портфолио: Инженер по тестированию
 
 ## Обо мне
@@ -14,7 +8,7 @@
 
 ## Навыки и технологии
 
-''Jira'' , ''qase.io'' ,''sitechco.ru'',''miro'',''Trello'',''Postman'',''Swagger'',''SoapUI'',
+``Jira``,''qase.io'',''sitechco.ru'',''miro'',''Trello'',''Postman'',''Swagger'',''SoapUI'',
 ''Charles'',''Git'',''Mockoon'',''pgAdmin'',''Visual Studio Code'',Jupyter Notebook'',''Notion'',
 ''Chrome DevTools''.
 
