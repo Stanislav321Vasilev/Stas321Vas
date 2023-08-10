@@ -8,9 +8,9 @@
 
 ## Навыки и технологии
 
-``Jira``,''qase.io'',''sitechco.ru'',''miro'',''Trello'',''Postman'',''Swagger'',''SoapUI'',
-''Charles'',''Git'',''Mockoon'',''pgAdmin'',''Visual Studio Code'',Jupyter Notebook'',''Notion'',
-''Chrome DevTools''.
+``Jira``,``qase.io``,``sitechco.ru``,``miro``,``Trello``,``Postman``,``Swagger``,``SoapUI``,
+``Charles``,``Git``,``Mockoon``,``pgAdmin``,``Visual Studio Code``,``Jupyter Notebook``,``Notion``,
+``Chrome DevTools``.
 
 ## Проекты
 
