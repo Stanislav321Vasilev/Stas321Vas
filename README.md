@@ -14,7 +14,7 @@
 
 ## Навыки и технологии
 
-''Jira'',''qase.io'',''sitechco.ru'',''miro'',''Trello'',''Postman'',''Swagger'',''SoapUI'',
+''Jira'' , ''qase.io'' ,''sitechco.ru'',''miro'',''Trello'',''Postman'',''Swagger'',''SoapUI'',
 ''Charles'',''Git'',''Mockoon'',''pgAdmin'',''Visual Studio Code'',Jupyter Notebook'',''Notion'',
 ''Chrome DevTools''.
 
@@ -30,8 +30,6 @@
 4. написать отчет о результатах тестирования
 
 Ссылка на проект: Курсовая 1 и 2 [Team - Confluence](https://qa-bug-report33.atlassian.net/wiki/spaces/TEAM/pages/33183/1+2).
-Логин : stanislavvasilev988@gmail.com
-Пароль : Uhbdsytn()
 
 
 
