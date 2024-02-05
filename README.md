@@ -47,6 +47,8 @@
 Ссылки на проект: https://docs.google.com/spreadsheets/d/1CvQpqMXiyFp9cXWtF8Hww_xTd8btyBsKBuZFtg9O0Tw/edit#gid=690024132
 
 Использовал инструменты ``Charles``, ``Android Studio``
+С 11.01.2023 по 06.12.2023 учился на инженера QA в Skypro имею диплом о профессиональной переподготовке.
+В настоящее время работаю слесарем КИПиА.
 
 
 
